@@ -13,7 +13,7 @@ function persistence(num) {
   return times; //returnt the counter
 }
 
-Other solutions:
+//Other solutions:
 
 const persistence = num => {
   return `${num}`.length > 1 
